@@ -1,2 +1,6 @@
-# Bootcamp-Group-Project-1
-This is my first group project from the USC Viterbi Data Analytics Bootcamp. I worked on this project with three other group members, and presented on 2/24/22.
+# COVID Data Trends & SFO Flight Analysis
+
+### Project Goals:
+- Analyze data showing COVID infections in the US from 2020-2021 and chart results
+- Analyze outbound flights departing from San Francisco International Airport (SFO) in 2020 
+- Determine if there is any correlation between infection levels and air traffic
